@@ -24,7 +24,7 @@
 | Уведомления сотрудникам (У4a) | сделано | [notifications.md](crm/notifications.md) |
 | Уведомления клиентам (У4b) | не начато | [notifications.md](crm/notifications.md) |
 | Бот и кабинет клиента (У5, этап 6) | не начато | [deal-as-service.md](crm/deal-as-service.md) |
-| Сделка вручную только с клиентом (П2г-1б) | сделано, ждёт выпуска | [links-contract.md](crm/links-contract.md) |
+| Сделка вручную только с клиентом (П2г-1б) | выпущено 30.10.2026 | [links-contract.md](crm/links-contract.md) |
 | Перенос контактов сделок в клиентов (П2г-2) | не начато | [links-contract.md](crm/links-contract.md) |
 | Заказ магазина в CRM (П3) | не начато; ждёт решения, где проверять сценарий «плитка» | [entities.md](crm/entities.md) |
 | Услуги, продление, распределение платежей (П4, П4б) | не начато | [entities.md](crm/entities.md) |

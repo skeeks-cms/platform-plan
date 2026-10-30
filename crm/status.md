@@ -42,7 +42,7 @@
 | У4b. Уведомления клиентам, У5. Кабинет клиента | не начато | [deal-as-service.md](deal-as-service.md) |
 | П1. Инвентаризация и договор связей | сделано | [links-contract.md](links-contract.md), [p1-inventory.md](p1-inventory.md) |
 | П2а–П2д, П5 | выложено 30.10.2026 | [links-contract.md](links-contract.md) |
-| П2г-1б. Сделка вручную только с клиентом, данные обращения только для чтения | сделано 30.10.2026 (cms, cms-mcp), не выпущено — ждёт «да» владельца | [links-contract.md](links-contract.md) |
+| П2г-1б. Сделка вручную только с клиентом, данные обращения только для чтения | выпущено 30.10.2026: cms 6.4.9.79, cms-mcp 1.0.21, cms-communication 1.19.7; на skeeks.com | [links-contract.md](links-contract.md) |
 | П2г-2. Перенос контактов сделок в клиентов | не начато | [links-contract.md](links-contract.md) |
 | П3. Заказ магазина в CRM | не начато; до старта решить, где проверять сценарий «плитка» | [entities.md](entities.md) |
 | П4, П4б. Услуги, продление, распределение платежей | не начато; только по утверждённым правилам денег | [entities.md](entities.md) |
