@@ -315,7 +315,8 @@ skeeks.com** (коммит проекта `a2a20ddb` вместе с 1.10.0, м�
   `sx` добавлен в разрешённые параметры канонического адреса `cms-seo`.
 - skeeks-platform.ru (другая установка): на стенде проверен приём сигнала
   с `localhost:8082` по CORS и визит со страницами платформы; на боевой
-  платформе не ставили. Нужно: `ADDminor_pname('sx')` (сейчас `cms-seo`
+  платформе не ставили. Нужно: `ADDminor_pname('sx')` и, с
+  `cms-communication` 1.20.0, `ADDminor_pname('sx_code')` (сейчас `cms-seo`
   платформы отвечает 301 без `sx`), условное подключение
   `https://skeeks.com/~comm-visit/visit.js` (в `skeeks-brand` или теме
   платформы), домен в «Наших сайтах» на skeeks.com, уведомление о cookie.
