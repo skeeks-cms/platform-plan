@@ -39,6 +39,7 @@
 | [proposals.md](proposals.md) | Предложения: КП и Презентации (этап 3) |
 | [lead-sources.md](lead-sources.md) | «Откуда узнали»: рекламный источник сделки, канал «Визит в салон», отчёт |
 | [ai.md](ai.md) | ИИ: этап 8, разбор базы и личные предложения |
+| [ai-technical.md](ai-technical.md) | Технический проект SkeekS AI, состав пакетов и первый сценарий |
 | [base-site-lightening.md](base-site-lightening.md) | Облегчение базового сайта (направление на будущее) |
 
 Решения владельца по датам — [../decisions/README.md](../decisions/README.md).
