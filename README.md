@@ -7,6 +7,7 @@
 
 - Общая доска направлений и этапов — [ROADMAP.md](ROADMAP.md).
 - План CRM — [crm/](crm/README.md).
+- План хостинга (домены через регистратора) — [hosting/](hosting/README.md).
 - Решения владельца по датам — [decisions/](decisions/README.md).
 
 ## Три места знаний и граница между ними
